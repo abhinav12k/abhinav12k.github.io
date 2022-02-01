@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Abhinav
+description: Software Engineer & Android Developer
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Abhinav
+user_description: Android Engineer with an expertise in building high quality apps with elegant UI and clean code. Worked on apps with more than 5 Lakh user base. Skilled in Kotlin, Android, Java, Data Structures & Algorithms. Familiar with latest Android Architectures, Frameworks.
+user_title: Android Engineer | Software Engineer
+email: dev.abhinav12k@gmail.com
+twitter_username: Abhinav12k
+github_username:  abhinav12k
+linkedin_username : abhinav12k
+# facebook_username : 
+
+exclude: ['package.json', 'src' , 'node_modules']
