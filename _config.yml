@@ -15,3 +15,5 @@ linkedin_username : abhinav12k
 # facebook_username : 
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+theme: jekyll-theme-cayman
